@@ -18,9 +18,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - Live Site URL: [gitHub page](https://briankrou.github.io/Frontend-Mentor---Testimonials-grid-section/)
 
-
-
 ## Author
 
-- Website - [Add your name here](https://www.briankrou.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/briankrou)
+- Website - [briankrou.com](https://www.briankrou.com)
+- Frontend Mentor - [@briakrou](https://www.frontendmentor.io/profile/briankrou)
